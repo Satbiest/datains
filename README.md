@@ -20,9 +20,7 @@
 ![Dashboard](https://img.shields.io/badge/Dashboard-Analytics-6C63FF?style=flat)
 
 <br/><br/>
-
 [![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/SalesSuperstorePerformanceDashboard_17908247274610/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 <br/><br/>
 
 [Overview](#-overview) •
