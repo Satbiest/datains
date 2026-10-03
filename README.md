@@ -13,13 +13,16 @@
 ### Interactive sales analytics dashboard for monitoring sales performance, profitability, customer segments, products, regional distribution, and shipping operations.
 
 <br/>
+
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1F6FEB?style=flat)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-F2C811?style=flat)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Analytics-6C63FF?style=flat)
 
 <br/><br/>
+
 [![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/SalesSuperstorePerformanceDashboard_17908247274610/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 <br/><br/>
 
 [Overview](#-overview) •
